@@ -1,0 +1,12 @@
+Calculator  TZ
+Kerakli narsalar:
+1. 0 dan 9 gacha bo'lgan raqamlar kerak
+2. Uning dizaynini yasashlik kerak
+3. Matematik amallar kerak (+, -, *, /, =, **, %);
+
+
+Jarayonni borish tartibi:
+
+I. Kalkulyatorning tashqi ko'rinish dizaynini yasab olishlik kerak
+II. Qo'shish. +:
+-- Qo'shish amalini bajarishlik uchun 3 ta o'zgaruvchi ochib olishlik lozim, ularning nomini son1, son2 va natija. Foydalanuvchidan 1-sonni kiritish so'raladi, 1-son kiritilgach qo'shish belgisini tanlash so'raladi. So'ngra 2-son kiritiladi. Ushbu qiymatning yig'indisini natijaga tenglashtirib olinadi
